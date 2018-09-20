@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "common.h": "c",
+        "debug_.h": "c",
+        "pid_process.h": "c",
+        "global_var.h": "c",
+        "keyscan.h": "c",
+        "mk60_ftm.h": "c",
+        "oleddrive.h": "c",
+        "encorddrive.h": "c",
+        "mk60_adc.h": "c",
+        "celldrive.h": "c",
+        "wifidrive.h": "c",
+        "include.h": "c",
+        "mk60_uart.h": "c",
+        "arm_math.h": "c",
+        "servodrive.h": "c",
+        "mk60_conf.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Enabled",
+    "C_Cpp.intelliSenseEngineFallback": "Enabled"
+}
